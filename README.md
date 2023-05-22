@@ -1,5 +1,20 @@
-# Welcome to Remix!
+# Exercícios do livro Estruturas de Dados e Algaritmos com JavaScript 2º Edição
 
+
+## Básico sobre o JavaScript
+
+```sh
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<script>
+alert('Hello, World!');
+</script>
+</body>
+</html>
+```
 - [Remix Docs](https://remix.run/docs)
 
 ## Deployment
